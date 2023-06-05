@@ -14,7 +14,7 @@ This is the Github repository for my Image morphing in the subject of Digital Im
 
 | Input 1  | Input 2 | Alpha=0.4 | Alpha=0.5 |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="./cross_dissolving/human.jpg" alt="output" width="300"/>  | <img src="./cross_dissolving/dog.jpg" alt="output" width="300"/>  | <img src="./cross_dissolving/morphed_image_04.png" alt="output" width="200"/>  | <img src="./cross_dissolving/morphed_image_05.png" alt="output" width="200"/> | 
+| <img src="./cross_dissolving/human.jpg" alt="output" width="200"/>  | <img src="./cross_dissolving/dog.jpg" alt="output" width="200"/>  | <img src="./cross_dissolving/morphed_image_04.png" alt="output" width="200"/>  | <img src="./cross_dissolving/morphed_image_05.png" alt="output" width="200"/> | 
 
 
 ### Triangle mesh warping
@@ -26,8 +26,8 @@ This is the Github repository for my Image morphing in the subject of Digital Im
 Morphing of 2 images
 | Input | Output |
 | ------------- | ------------- |
-| <img src="GAN_morphing/cat_dog.png" alt="output" width="200"/> | <img src="GAN_morphing/car_dog_morph.png" alt="output" width="200"/> |
-| <img src="GAN_morphing/human_dog.png" alt="output" width="200"/> | <img src="GAN_morphing/human_dog_morph.png" alt="output" width="200"/> |
+| <img src="GAN_morphing/cat_dog.png" alt="output" width="300"/> | <img src="GAN_morphing/car_dog_morph.png" alt="output" width="200"/> |
+| <img src="GAN_morphing/human_dog.png" alt="output" width="300"/> | <img src="GAN_morphing/human_dog_morph.png" alt="output" width="200"/> |
 
 Blending with GAN
 | Input | Ox blend | Oy blend |

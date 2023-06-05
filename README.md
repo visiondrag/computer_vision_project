@@ -26,8 +26,8 @@ This is the Github repository for my Image morphing in the subject of Digital Im
 Morphing of 2 images
 | Input | Output |
 | ------------- | ------------- |
-| <img src="GAN_morphing/cat_dog.png" alt="output" width="300"/> | <img src="GAN_morphing/car_dog_morph.png" alt="output" width="200"/> |
-| <img src="GAN_morphing/human_dog.png" alt="output" width="300"/> | <img src="GAN_morphing/human_dog_morph.png" alt="output" width="200"/> |
+| <img src="GAN_morphing/cat_dog.png" alt="output" width="200"/> | <img src="GAN_morphing/car_dog_morph.png" alt="output" width="200"/> |
+| <img src="GAN_morphing/human_dog.png" alt="output" width="200"/> | <img src="GAN_morphing/human_dog_morph.png" alt="output" width="200"/> |
 
 Blending with GAN
 | Input | Ox blend | Oy blend |
@@ -35,7 +35,7 @@ Blending with GAN
 | <img src="GAN_morphing/2_cat.png" alt="output" width="400"/>  | <img src="GAN_morphing/horizontal_blend.png" alt="output" width="200"/>  | <img src="GAN_morphing/vertical_blend.png" alt="output" width="200"/>  | 
 
 Swapping with GAN
-| Input | Ox blend |
+| Input | Eye swap |
 | ------------- | ------------- |
 | <img src="GAN_morphing/swap_eye.png" alt="output" width="300"/>  | <img src="GAN_morphing/swap_eye_output.png" alt="output" width="200"/>  | 
 ## Code
